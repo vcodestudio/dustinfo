@@ -1,0 +1,22 @@
+{
+  "name": "dustinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcodestudio/dustinfo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vcodestudio/dustinfo/issues"
+  },
+  "homepage": "https://github.com/vcodestudio/dustinfo#readme",
+  "dependencies": {
+    "three": "^0.137.5"
+  }
+}
